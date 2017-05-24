@@ -1,2 +1,4 @@
 # photoluminescence
-data reduction routines for PL and decay measurements
+Data reduction routines for PL and decay measurements
+
+## Usage 
